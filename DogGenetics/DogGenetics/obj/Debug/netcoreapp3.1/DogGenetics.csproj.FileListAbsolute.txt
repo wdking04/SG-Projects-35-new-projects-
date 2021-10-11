@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\bin\Debug\netcoreapp3.1\DogGenetics.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.genruntimeconfig.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\DogGenetics\DogGenetics\obj\Debug\netcoreapp3.1\DogGenetics.csprojAssemblyReference.cache

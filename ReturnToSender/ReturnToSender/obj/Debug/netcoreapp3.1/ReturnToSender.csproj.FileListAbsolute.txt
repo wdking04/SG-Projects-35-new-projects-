@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\bin\Debug\netcoreapp3.1\ReturnToSender.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\bin\Debug\netcoreapp3.1\ReturnToSender.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\bin\Debug\netcoreapp3.1\ReturnToSender.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\bin\Debug\netcoreapp3.1\ReturnToSender.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\bin\Debug\netcoreapp3.1\ReturnToSender.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\bin\Debug\netcoreapp3.1\ReturnToSender.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\obj\Debug\netcoreapp3.1\ReturnToSender.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\obj\Debug\netcoreapp3.1\ReturnToSender.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\obj\Debug\netcoreapp3.1\ReturnToSender.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\obj\Debug\netcoreapp3.1\ReturnToSender.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\obj\Debug\netcoreapp3.1\ReturnToSender.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\obj\Debug\netcoreapp3.1\ReturnToSender.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\ReturnToSender\ReturnToSender\obj\Debug\netcoreapp3.1\ReturnToSender.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.exe
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.deps.json
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.runtimeconfig.json
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.dll
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\bin\Debug\netcoreapp3.1\GuessMeMore.pdb
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.dll
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.pdb
+C:\Users\wdkin\source\repos\GuessMeMore\GuessMeMore\obj\Debug\netcoreapp3.1\GuessMeMore.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\bin\Debug\netcoreapp3.1\AllTheMaths.exe
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\bin\Debug\netcoreapp3.1\AllTheMaths.deps.json
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\bin\Debug\netcoreapp3.1\AllTheMaths.runtimeconfig.json
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\bin\Debug\netcoreapp3.1\AllTheMaths.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\bin\Debug\netcoreapp3.1\AllTheMaths.dll
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\bin\Debug\netcoreapp3.1\AllTheMaths.pdb
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\obj\Debug\netcoreapp3.1\AllTheMaths.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\obj\Debug\netcoreapp3.1\AllTheMaths.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\obj\Debug\netcoreapp3.1\AllTheMaths.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\obj\Debug\netcoreapp3.1\AllTheMaths.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\obj\Debug\netcoreapp3.1\AllTheMaths.dll
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\obj\Debug\netcoreapp3.1\AllTheMaths.pdb
+C:\Users\wdkin\source\repos\AllTheMaths\AllTheMaths\obj\Debug\netcoreapp3.1\AllTheMaths.genruntimeconfig.cache

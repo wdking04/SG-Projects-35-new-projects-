@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\obj\Debug\netcoreapp3.1\ABeginning.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\obj\Debug\netcoreapp3.1\ABeginning.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\obj\Debug\netcoreapp3.1\ABeginning.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\obj\Debug\netcoreapp3.1\ABeginning.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\bin\Debug\netcoreapp3.1\ABeginning.exe
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\bin\Debug\netcoreapp3.1\ABeginning.deps.json
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\bin\Debug\netcoreapp3.1\ABeginning.runtimeconfig.json
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\bin\Debug\netcoreapp3.1\ABeginning.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\bin\Debug\netcoreapp3.1\ABeginning.dll
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\bin\Debug\netcoreapp3.1\ABeginning.pdb
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\obj\Debug\netcoreapp3.1\ABeginning.dll
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\obj\Debug\netcoreapp3.1\ABeginning.pdb
+C:\Users\wdkin\source\repos\ABeginning\ABeginning\obj\Debug\netcoreapp3.1\ABeginning.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\obj\Debug\netcoreapp3.1\MatchWork.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\obj\Debug\netcoreapp3.1\MatchWork.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\obj\Debug\netcoreapp3.1\MatchWork.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\obj\Debug\netcoreapp3.1\MatchWork.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\bin\Debug\netcoreapp3.1\MatchWork.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\bin\Debug\netcoreapp3.1\MatchWork.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\bin\Debug\netcoreapp3.1\MatchWork.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\bin\Debug\netcoreapp3.1\MatchWork.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\bin\Debug\netcoreapp3.1\MatchWork.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\bin\Debug\netcoreapp3.1\MatchWork.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\obj\Debug\netcoreapp3.1\MatchWork.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\obj\Debug\netcoreapp3.1\MatchWork.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MatchWork\MatchWork\obj\Debug\netcoreapp3.1\MatchWork.genruntimeconfig.cache

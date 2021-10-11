@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\bin\Debug\netcoreapp3.1\MenuOfChampions.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\MenuOfChampions\MenuOfChampions\obj\Debug\netcoreapp3.1\MenuOfChampions.genruntimeconfig.cache

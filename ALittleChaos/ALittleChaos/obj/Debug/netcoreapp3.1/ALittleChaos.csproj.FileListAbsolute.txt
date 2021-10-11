@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.exe
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.deps.json
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.runtimeconfig.json
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.dll
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\bin\Debug\netcoreapp3.1\ALittleChaos.pdb
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.dll
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.pdb
+C:\Users\wdkin\source\repos\ALittleChaos\ALittleChaos\obj\Debug\netcoreapp3.1\ALittleChaos.genruntimeconfig.cache

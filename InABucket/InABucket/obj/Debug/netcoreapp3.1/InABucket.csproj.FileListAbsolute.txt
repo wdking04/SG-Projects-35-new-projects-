@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\InABucket\InABucket\bin\Debug\netcoreapp3.1\InABucket.exe
+C:\Users\wdkin\source\repos\InABucket\InABucket\bin\Debug\netcoreapp3.1\InABucket.deps.json
+C:\Users\wdkin\source\repos\InABucket\InABucket\bin\Debug\netcoreapp3.1\InABucket.runtimeconfig.json
+C:\Users\wdkin\source\repos\InABucket\InABucket\bin\Debug\netcoreapp3.1\InABucket.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\InABucket\InABucket\bin\Debug\netcoreapp3.1\InABucket.dll
+C:\Users\wdkin\source\repos\InABucket\InABucket\bin\Debug\netcoreapp3.1\InABucket.pdb
+C:\Users\wdkin\source\repos\InABucket\InABucket\obj\Debug\netcoreapp3.1\InABucket.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\InABucket\InABucket\obj\Debug\netcoreapp3.1\InABucket.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\InABucket\InABucket\obj\Debug\netcoreapp3.1\InABucket.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\InABucket\InABucket\obj\Debug\netcoreapp3.1\InABucket.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\InABucket\InABucket\obj\Debug\netcoreapp3.1\InABucket.dll
+C:\Users\wdkin\source\repos\InABucket\InABucket\obj\Debug\netcoreapp3.1\InABucket.pdb
+C:\Users\wdkin\source\repos\InABucket\InABucket\obj\Debug\netcoreapp3.1\InABucket.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\bin\Debug\netcoreapp3.1\BarelyControlledChaos.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\bin\Debug\netcoreapp3.1\BarelyControlledChaos.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\bin\Debug\netcoreapp3.1\BarelyControlledChaos.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\bin\Debug\netcoreapp3.1\BarelyControlledChaos.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\bin\Debug\netcoreapp3.1\BarelyControlledChaos.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\bin\Debug\netcoreapp3.1\BarelyControlledChaos.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\obj\Debug\netcoreapp3.1\BarelyControlledChaos.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\obj\Debug\netcoreapp3.1\BarelyControlledChaos.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\obj\Debug\netcoreapp3.1\BarelyControlledChaos.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\obj\Debug\netcoreapp3.1\BarelyControlledChaos.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\obj\Debug\netcoreapp3.1\BarelyControlledChaos.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\obj\Debug\netcoreapp3.1\BarelyControlledChaos.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\BarelyControlledChaos\BarelyControlledChaos\obj\Debug\netcoreapp3.1\BarelyControlledChaos.genruntimeconfig.cache

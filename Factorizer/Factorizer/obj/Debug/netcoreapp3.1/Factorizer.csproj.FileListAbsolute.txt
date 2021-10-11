@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\bin\Debug\netcoreapp3.1\Factorizer.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\bin\Debug\netcoreapp3.1\Factorizer.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\bin\Debug\netcoreapp3.1\Factorizer.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\bin\Debug\netcoreapp3.1\Factorizer.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\bin\Debug\netcoreapp3.1\Factorizer.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\bin\Debug\netcoreapp3.1\Factorizer.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\obj\Debug\netcoreapp3.1\Factorizer.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\obj\Debug\netcoreapp3.1\Factorizer.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\obj\Debug\netcoreapp3.1\Factorizer.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\obj\Debug\netcoreapp3.1\Factorizer.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\obj\Debug\netcoreapp3.1\Factorizer.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\obj\Debug\netcoreapp3.1\Factorizer.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\Factorizer\Factorizer\obj\Debug\netcoreapp3.1\Factorizer.genruntimeconfig.cache

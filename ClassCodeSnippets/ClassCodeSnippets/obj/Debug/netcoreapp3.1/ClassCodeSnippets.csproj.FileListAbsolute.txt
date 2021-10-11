@@ -1,0 +1,4 @@
+C:\Users\wdkin\source\repos\ClassCodeSnippets\ClassCodeSnippets\obj\Debug\netcoreapp3.1\ClassCodeSnippets.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\ClassCodeSnippets\ClassCodeSnippets\obj\Debug\netcoreapp3.1\ClassCodeSnippets.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\ClassCodeSnippets\ClassCodeSnippets\obj\Debug\netcoreapp3.1\ClassCodeSnippets.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\ClassCodeSnippets\ClassCodeSnippets\obj\Debug\netcoreapp3.1\ClassCodeSnippets.csproj.CoreCompileInputs.cache

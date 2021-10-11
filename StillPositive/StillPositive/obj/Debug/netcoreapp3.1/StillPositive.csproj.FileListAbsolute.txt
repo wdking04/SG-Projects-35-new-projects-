@@ -1,0 +1,12 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\bin\Debug\netcoreapp3.1\StillPositive.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\bin\Debug\netcoreapp3.1\StillPositive.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\bin\Debug\netcoreapp3.1\StillPositive.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\bin\Debug\netcoreapp3.1\StillPositive.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\bin\Debug\netcoreapp3.1\StillPositive.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\bin\Debug\netcoreapp3.1\StillPositive.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\obj\Debug\netcoreapp3.1\StillPositive.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\obj\Debug\netcoreapp3.1\StillPositive.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\obj\Debug\netcoreapp3.1\StillPositive.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\obj\Debug\netcoreapp3.1\StillPositive.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\obj\Debug\netcoreapp3.1\StillPositive.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\StillPositive\StillPositive\obj\Debug\netcoreapp3.1\StillPositive.genruntimeconfig.cache

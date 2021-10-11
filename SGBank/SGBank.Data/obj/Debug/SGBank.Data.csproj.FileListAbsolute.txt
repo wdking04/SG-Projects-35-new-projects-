@@ -1,0 +1,9 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank.Data\obj\Debug\SGBank.Data.csproj.CopyComplete
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank.Data\obj\Debug\SGBank.Data.pdb

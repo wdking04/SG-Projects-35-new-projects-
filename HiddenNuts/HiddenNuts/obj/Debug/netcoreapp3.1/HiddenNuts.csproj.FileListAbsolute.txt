@@ -1,0 +1,12 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\bin\Debug\netcoreapp3.1\HiddenNuts.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\bin\Debug\netcoreapp3.1\HiddenNuts.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\bin\Debug\netcoreapp3.1\HiddenNuts.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\bin\Debug\netcoreapp3.1\HiddenNuts.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\bin\Debug\netcoreapp3.1\HiddenNuts.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\bin\Debug\netcoreapp3.1\HiddenNuts.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\obj\Debug\netcoreapp3.1\HiddenNuts.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\obj\Debug\netcoreapp3.1\HiddenNuts.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\obj\Debug\netcoreapp3.1\HiddenNuts.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\obj\Debug\netcoreapp3.1\HiddenNuts.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\obj\Debug\netcoreapp3.1\HiddenNuts.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\HiddenNuts\HiddenNuts\obj\Debug\netcoreapp3.1\HiddenNuts.genruntimeconfig.cache

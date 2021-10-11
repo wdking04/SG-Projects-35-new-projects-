@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\bin\Debug\netcoreapp3.1\SummativeSums.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SummativeSums\SummativeSums\obj\Debug\netcoreapp3.1\SummativeSums.genruntimeconfig.cache

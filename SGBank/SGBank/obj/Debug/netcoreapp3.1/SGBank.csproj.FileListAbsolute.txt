@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\bin\Debug\netcoreapp3.1\SGBank.exe
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\bin\Debug\netcoreapp3.1\SGBank.deps.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\bin\Debug\netcoreapp3.1\SGBank.runtimeconfig.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\bin\Debug\netcoreapp3.1\SGBank.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\bin\Debug\netcoreapp3.1\SGBank.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\bin\Debug\netcoreapp3.1\SGBank.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\obj\Debug\netcoreapp3.1\SGBank.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\obj\Debug\netcoreapp3.1\SGBank.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\obj\Debug\netcoreapp3.1\SGBank.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\obj\Debug\netcoreapp3.1\SGBank.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\obj\Debug\netcoreapp3.1\SGBank.dll
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\obj\Debug\netcoreapp3.1\SGBank.pdb
+C:\Users\wdkin\source\repos\classroom-work-wdking04\SGBank\SGBank\obj\Debug\netcoreapp3.1\SGBank.genruntimeconfig.cache

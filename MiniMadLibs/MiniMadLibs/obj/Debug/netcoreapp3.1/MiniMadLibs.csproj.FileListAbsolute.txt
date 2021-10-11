@@ -1,0 +1,13 @@
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.AssemblyInfoInputs.cache
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.AssemblyInfo.cs
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.exe
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.deps.json
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.runtimeconfig.json
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.runtimeconfig.dev.json
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.dll
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\bin\Debug\netcoreapp3.1\MiniMadLibs.pdb
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.dll
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.pdb
+C:\Users\wdkin\source\repos\MiniMadLibs\MiniMadLibs\obj\Debug\netcoreapp3.1\MiniMadLibs.genruntimeconfig.cache
